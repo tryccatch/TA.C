@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "string.h": "c",
+        "xstring": "c",
+        "iosfwd": "c",
+        "string": "c",
+        "type_traits": "c",
+        "xmemory": "c",
+        "corecrt_wstdio.h": "c",
+        "stdlib.h": "c"
+    }
+}
